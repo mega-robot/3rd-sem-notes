@@ -1,2 +1,3 @@
 # 3rd-sem-notes
-a collection of CY class notes (some might be a little incomplete)
+a collection of my class notes CSE (cyber security) 
+note : some might be a little incomplete
